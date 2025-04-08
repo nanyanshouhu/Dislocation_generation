@@ -103,6 +103,4 @@ This updated structure is written to an output file named POSCAR_dislocation.
 Running the Script
 To run the script, simply execute it in your command line or terminal from the directory containing your POSCAR and Cij.out files:
 
-nginx
-Copy
 python Dislocation.py
